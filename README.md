@@ -24,7 +24,7 @@
 
 ## Installation and Usage
 
-To view the tribute page locally, follow these steps:
+To view this project locally, follow these steps:
 
 1. Download this repository
 2. Open the index.html file in your preferred web browser
